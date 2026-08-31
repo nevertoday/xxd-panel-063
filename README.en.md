@@ -49,15 +49,16 @@ These four works reuse the corresponding independent sources and are regenerated
 <!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+When a photograph is given a digital, abstract treatment, it can easily slide into a screenful of pixels, neon distortion, and decorative glitch. The effect may be loud, but the subject and metaphor disappear into noise. Another common result simply places the photograph inside a square mask without truly reconstructing the space.
 
-**Panel 063** is suited to work that must retain the source's essential content while pursuing this visual direction: **Reconstruct photos with pixel masks, soft color patches, and negative metaphors**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+**Panel 063** first finds a central contour or negative shape within the source and turns it into the main Pixel Mask. Key objects, actions, and environmental details are then nested inside and outside that boundary. Slight misregistration adds rhythm; a soft, limited palette and generous negative space make the metaphor visible.
 
 ### Use it when
 
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+- **You want a digital feel without making a cyber-glitch poster:** pixel language should serve the subject and metaphor, not create presence through noise.
+- **You want an abstract image that remains readable:** one central Mask organises identity, action, environment, and negative-shape relationships.
+- **You like restrained experimental layouts:** stepped edges, local offsets, and breaks add rhythm only, while a soft palette and near-white background preserve breathing room.
+- **You need flexible delivery:** it supports top–bottom and left–right comparisons, design-only artwork, multiple ratios, four-device wallpaper sets, and batch processing of image folders.
 
 ### A simple way to begin
 
@@ -65,7 +66,7 @@ You do not need to review every option first. Send your Agent an image and say:
 
 > Use XXD Panel 063 on this image and recommend the best layout and size first.
 
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+Use the samples above to confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
