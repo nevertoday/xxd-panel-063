@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 063
+# 🦁 XXD Panel 063｜Pixel Metaphor Journal
 
 ### Reconstruct photos with pixel masks, soft color patches, and negative metaphors
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 063
+# 🦁 XXD Panel 063｜像素隐喻志
 
 ### 用像素 Mask、柔和色块和负形隐喻重构照片
 
